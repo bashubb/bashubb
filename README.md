@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A big fan of things that work</h3>
+#Hi 👋, I'm Hubert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bashubb&label=Profile%20views&color=0e75b6&style=flat" alt="bashubb" /> </p>
+<img src="https://github.com/bashubb/bashubb/blob/main/karate_old_school.gif">
+
+##A big fan of things that work as they should ⚙️
 
 
-- 🔭 I’m currently working on **some pretty cool app**
+- 🔭 I’m currently working on  **some pretty cool app**
 
-- 🌱 I’m currently learning **Combine,RxSwift, Realm and lot of cool things**
+- 🌱 I’m currently learning  **Combine,RxSwift, Realm and lot of cool things**
 
-- 👯 I’m looking to collaborate on **some cool open source project**
+- 👯 I’m looking to collaborate on  **some cool open source project**
 
-- 🤝 I’m looking for help with **find a dream job**
+- 🤝 I’m looking for help with  **find a dream job**
 
-- 💬 Ask me about **swiftUI**
+- 💬 Ask me about   **swiftUI**
 
-- 📫 How to reach me **hubert.kielkowski@gmail.com**
+- 📫 How to reach me  **hubert.kielkowski@gmail.com**
 
-- ⚡ Fun fact **I think I am a pretty good singer :D**
+- ⚡ Fun fact :**I think I am a pretty good singer 😀**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
