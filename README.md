@@ -27,3 +27,5 @@
 <a href="https://discord.gg/https://discord.gg/Hnr2vdnbSX" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"  /></a>
 </p>
 
+ 
+ <img align="right" src="https://github.com/bashubb/bashubb/blob/main/jackson_dancing.gif">
