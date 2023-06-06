@@ -3,7 +3,7 @@
 ## A big fan of things that work as they should ⚙️   
 
 
- 🔭 I’m currently working on  **new intresting app**
+- 🔭 I’m currently working on  **new intresting app**
 
 - 🌱 I’m currently learning  **Combine,RxSwift, Realm and lot of cool things**
 
