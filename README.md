@@ -3,13 +3,13 @@
 ## A big fan of things that work as they should ⚙️   
 
 
-- 🔭 I’m currently working on  **new intresting app**
+- 🔭 I’m currently working on  **new interesting app**
 
-- 🌱 I’m currently learning  **Combine,RxSwift, Realm and lot of cool things**
+- 🌱 I’m currently learning  **Combine,RxSwift, Realm and a lot of cool things**
 
-- 👯 I’m looking to collaborate on  **some cool open source project**
+- 👯 I’m hoping to collaborate with **open minded, task driven people on interesting projects**
 
-- 🤝 I’m looking for help with  **find a dream job**
+- 🤝 I’m looking for help in **finding my dream job**
 
 - 💬 Ask me about   **swiftUI**
 
