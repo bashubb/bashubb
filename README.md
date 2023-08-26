@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on  **new interesting app**
 
-- 🌱 I’m currently learning  **Combine,RxSwift, Realm and a lot of cool things**
+- 🌱 I’m currently learning  **Combine, Realm, UIKit and a lot of cool things**
 
 - 👯 I’m hoping to collaborate with **open minded, task driven people on interesting projects**
 
