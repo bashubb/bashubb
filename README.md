@@ -2,7 +2,7 @@
 <h2>📍 About me</h2>
 
 <p align="left"> I'am  an Apple enthusiast and self-taught 📱iOS developer, who creates his own projects. My goal 🏹 is to develop my skills to be able to provide useful and interesting solutions to the problems of everyday life ! 🦾
-In my free time I totally in love with moutain treks ⛰️, climbing and bike riding 🚴 ! </p>
+In my free time I'm totally in love with moutain treks ⛰️, climbing and bike riding 🚴 ! </p>
 <br>
 
 
