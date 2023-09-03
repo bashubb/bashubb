@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Hubert 👋</h1>
 <h2>📍 About me</h2>
 
-<p align="left"> I'am  an Apple enthusiast and self-taught 📱iOS developer, who creates his own projects. My goal 🏹 is to develop my skills to be able to provide useful and interesting solutions to the problems of everyday life ! 🦾
+<p align="left"> I'am  an Apple enthusiast and self-taught 📱iOS developer, who creates his own projects. My goal 🏹 is to develop my skills so that they help me solve everyday problems! 🦾
 In my free time I'm totally in love with mountain treks ⛰️, climbing and bike riding 🚴 ! </p>
 <br>
 
