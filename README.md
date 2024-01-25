@@ -1,26 +1,39 @@
 <h1 align="center">Hello, I am Hubert 👋</h1>
 <h2>📍 About me</h2>
+    <p >Greetings! 🚀 <br> 
+     <br>
+     I'm Hubert, an Apple enthusiast and a self-taught 📱iOS developer, driven by an insatiable passion for coding. My journey into the world of iOS development is fueled by the sheer joy of transforming lines of code into innovative solutions.</p>
+    <p>Coding, for me, is a captivating puzzle-solving adventure. The thrill of deciphering challenges and crafting elegant solutions is what keeps me hooked. Each coding project is an opportunity to flex my problem-solving muscles and create tangible solutions that make a difference.</p>
 
-<p align="left"> I am  an Apple enthusiast and self-taught 📱iOS developer, who creates his own projects. My goal 🏹 is to develop my skills so that they help me solve everyday problems! 🦾
-In my free time I'm totally in love with mountain treks ⛰️, climbing and bike riding 🚴 ! </p>
+   <p > My goal 🏹 is to constantly evolve my skills, not just for the sake of proficiency, but to wield them as powerful tools to tackle everyday problems. The satisfaction derived from turning complex problems into streamlined, user-friendly applications is my ultimate reward.</p>
+
+   <p> When I'm not coding, you'll likely find me exploring mountain trails ⛰️, embarking on climbing adventures, or enjoying the breeze on my bike 🚴. </p>
+   <p> The Apple ecosystem, with its seamless integration and cutting-edge technologies, serves as my playground for exploration. The joy of crafting iOS applications that not only work seamlessly but also provide solutions to real-world challenges is my driving force.
+    </p>
+    <br>
+
+
+
+
+<h2>An Enthusiast for Smooth Operations! ⚙️   </h2>
+
+<ul>
+    <li>🔭 Building a cool app with <b>Firestore</b> magic.</li>
+    <li>🌱 Learning new stuff like <b>Combine, Realm, and UIKit</b>.</li>
+    <li>👯 Excited to work with friendly folks on fun projects.</li>
+    <li>🤝 Hoping for help in finding my dream coding job.</li>
+    <li>💬 Happy to chat about <b>SwiftUI</b>.</li>
+    <li>📫 Email me at <b>hubert.kielkowski@gmail.com</b> to connect!</li>
+</ul>
 <br>
 
 
-<h2>A big fan of things that work as they should ⚙️   </h2>
+<h2>📐 Projects:</h2>
 
-- 🔭 I’m  working on  <b>new interesting app using Firestore data base</b><br>
-
-- 🌱 I’m learning  <b>Combine, Realm, UIKit and a lot of cool things</b><br>
-
-- 👯 I’m hoping to collaborate with <b>open minded, task driven people on interesting projects</b><br>
-
-- 🤝 I’m looking for help in <b>finding my dream job</b><br>
-
-- 💬 Ask me about   <b>swiftUI</b><br>
-
-- 📫 How to reach me  <b>hubert.kielkowski@gmail.com</b><br>
-<br>
-
+ <h3>I'm currently working on couple of projects, some of them: </h3>
+ 
+✪ 🤣  [Chuck Norris Joke App](https://github.com/bashubb/ChuckNorrisJokeApp) - The simple app that gives a dose of daily humor with random choosen joke <br>
+✪ 🗓️  [Simple TODO App](https://github.com/bashubb/Simple_ToDO) -  The Application for task managment but with some 80's design.
 
 <h2> 🛠️ Technologies & Tools: </h2>
 
@@ -37,18 +50,8 @@ In my free time I'm totally in love with mountain treks ⛰️, climbing and bik
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" />
 </p>
 <br>
-
-<h2>📐 Projects:</h2>
-
- <h3>I'm currently working on couple of projects, some of them: </h3>
- 
-✪ 🤣  [Chuck Norris Joke App](https://github.com/bashubb/ChuckNorrisJokeApp) - The simple app that gives a dose of daily humor with random choosen joke <br>
-✪ 🗓️  [Simple TODO App](https://github.com/bashubb/Simple_ToDO) -  The Application for task managment but with some 80's design.
-
-
 
 <br>
 <h2>✉️ Contact with me:</h2> 
