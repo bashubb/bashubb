@@ -64,12 +64,12 @@
 <details>
     <summary><h3>Hacking with swift</h3></summary>
     <ul>
-        <li>100 days with swift</li>
+        <li><h4>100 days with swift</h4></li>
             <ul>
                 <li><a href="https://github.com/bashubb/100-days-of-swift">Projects repository</a></li>
                 <li><a href="">Certificate</a></li>
             </ul>
-        <li>100 days with swiftUI</li>
+        <li><h4>100 days with swiftUI</h4></li>
             <ul>
                 <li><a href="https://github.com/bashubb/100-days-of-swiftUI">Projects repository</a></li>
                 <li><a href="">Certificate</a></li>
@@ -79,7 +79,22 @@
 <details>
     <summary><h3>Other</h3></summary>
     <ul>
-        <li>Unknown</li>
+        <li><h4>Swift Essential Training</h4></li>
+            <ul>
+                <li><a href="https://www.linkedin.com/learning/certificates/22c9c276c359730588c77e356cb7be54dddee462818106901b08e5e2c97fc8de">Certificate</a></li>
+            </ul>
+        <li><h4>Software Development Academy : Junior Python Developer Course</h4></li>
+            <ul>
+                <li><a href="https://app.diplomasafe.com/pl-PL/diploma/d24fa5ee81817728bf0f6c4b040d084bd7ffeb071">Certificate</a></li>
+            </ul>
+        <li><h4>Software Development Academy : Scrum Metodology</h4></li>
+            <ul>
+                <li><a href="https://app.diplomasafe.com/pl-PL/diploma/d0f76442265ab45b0e5a6d6cd9f644b63976a7269">Certificate</a></li>
+            </ul>
+        <li><h4>Deep Teaching Solutions : Learning How to Learn - Powerful mental tools to help you master tough subjects</h4></li>
+            <ul>
+                <li><a href="https://coursera.org/share/ac43412ee52a87fe35a80e9bc2644ffa">Certificate</a></li>
+            </ul>
     </ul>
 </details>
 <br>
