@@ -35,21 +35,21 @@
         <li><h4>CS50x - Introduction to computer science</h4></li>
         <p><i>I embarked on the CS50x journey, delving into a 10-week exploration that unfolded <br>
             the foundations of the C programming language,the adaptability of Python, the intricacies of SQL's database querying capabilities,<br>
-            and the vibrant interactivity brought by HTML and JavaScript. Throughout this experience, I tackled over 30 coding challenges, culminating in a</i> <a href="">final project</a></p>
+            and the vibrant interactivity brought by HTML and JavaScript. Throughout this experience, I tackled over 30 coding challenges, culminating in a</i> <a href="https://github.com/bashubb/VisualSort">final project</a></p>
             <ul>
-                <li><a href="">Projects repository</a></li>
-                <li><a href="">Certificate</a></li>
+                <li><a href="https://github.com/bashubb/CS50x">Projects repository</a></li>
+                <li><a href="https://certificates.cs50.io/750197ab-7311-4f6a-b936-c67a5a0fe3f9">Certificate</a></li>
             </ul>
             <br>
         <li><h4>CS50p - Introduction to computer science with Python</h4></li>
         <p><i>In the CS50 Python course, I explored essential programming concepts, <br>
             including functions, variables, conditionals, loops, exceptions, libraries, unit tests,<br>
-            file I/O, and regular expressions. With hands-on challenges for each topic and a </i><a href="">final project</a>, <br><i>
+            file I/O, and regular expressions. With hands-on challenges for each topic and a </i><a href="https://github.com/bashubb/Tic_tac_toe">final project</a>, <br><i>
             the course provided a practical and comprehensive understanding of Python. The entire curriculum was centered on Python,<br>
             offering a robust foundation for solving diverse programming problems.</i></p>
             <ul>
-                <li><a href="">Projects repository</a></li>
-                <li><a href="">Certificate</a></li>
+                <li><a href="https://github.com/bashubb/CS50p">Projects repository</a></li>
+                <li><a href="https://certificates.cs50.io/671fc18b-72f6-435e-a4af-f3ae129ca738">Certificate</a></li>
             </ul>
             <br>
         <li><h4>CS50T - Technology</h4></li>
@@ -57,7 +57,7 @@
                 programming, and web development. This course provided me with a solid foundation in today's technology and<br>
                 prepared me for future advancements, fostering a deeper understanding of key concepts in a concise format.</i></p>
             <ul>
-                <li><a href="">Certificate</a></li>
+                <li><a href="https://certificates.cs50.io/f9730f55-bc0b-4d41-b8d3-f7d15495f1f7">Certificate</a></li>
             </ul>
     </ul>
 </details>
@@ -66,12 +66,12 @@
     <ul>
         <li>100 days with swift</li>
             <ul>
-                <li><a href="">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/100-days-of-swift">Projects repository</a></li>
                 <li><a href="">Certificate</a></li>
             </ul>
         <li>100 days with swiftUI</li>
             <ul>
-                <li><a href="">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/100-days-of-swiftUI">Projects repository</a></li>
                 <li><a href="">Certificate</a></li>
             </ul>
     </ul>
