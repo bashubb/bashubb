@@ -97,23 +97,7 @@
             </ul>
     </ul>
 </details>
-<br>
-
-
-<h2>📐 Projects:</h2>
-
-<p>
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=E5EDF3&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&description_lines_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br><br>
 <h2> 🛠️ Technologies & Tools: </h2>
 
 <p align="left">
@@ -130,14 +114,41 @@
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 </p>
-<br>
 
-<br>
 <h2>✉️ Contact with me:</h2> 
 
 <p align="left">
 <a href="https://linkedin.com/in/hubert-kielkowski" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="hubert-kielkowski"/> <a href="https://discord.gg/https://discord.gg/Hnr2vdnbSX" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
 
+<br><br>
+
+<h2>📐 things I've worked on :</h2>
+
+<p>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=BillSpliter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/BillSpliter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+
+</p><p>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Tic_tac_toe&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Tic_tac_toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Unit-Converter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Unit_Converter)
+</p><p>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ChuckNorrisJokeApp&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ChuckNorrisJokeApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Simple_ToDO&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Simple_ToDO)
+</p><p>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ScrollSampler&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ScrollSampler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+    
+</p>
+<br><br>
+    
+<p> 
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashubb&&hide_progress=true&text_color=848D97&border_color=21262C&bg_color=0D1117)        
+<img align="right" src="https://github.com/bashubb/bashubb/blob/main/jackson_dancing.gif">
+</p>
  
- <img align="right" src="https://github.com/bashubb/bashubb/blob/main/jackson_dancing.gif">
