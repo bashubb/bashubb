@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I am Hubert 👋</h1>
+<h1 align="left">Hello, I am Hubert 👋</h1>
+<br>
 <h2>📍 About me</h2>
     <p >Greetings! 🚀 <br> 
      <br>
