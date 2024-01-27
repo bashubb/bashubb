@@ -104,7 +104,7 @@
 
 <p>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=E5EDF3&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&description_lines_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
