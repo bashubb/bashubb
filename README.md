@@ -102,10 +102,17 @@
 
 <h2>📐 Projects:</h2>
 
- <h3>I'm currently working on couple of projects, some of them: </h3>
- 
-✪ 🤣  [Chuck Norris Joke App](https://github.com/bashubb/ChuckNorrisJokeApp) - The simple app that gives a dose of daily humor with random choosen joke <br>
-✪ 🗓️  [Simple TODO App](https://github.com/bashubb/Simple_ToDO) -  The Application for task managment but with some 80's design.
+<p>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&description_lines_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2> 🛠️ Technologies & Tools: </h2>
 
