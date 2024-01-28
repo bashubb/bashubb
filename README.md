@@ -131,15 +131,15 @@
 <p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=BillSpliter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/BillSpliter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSor&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
 </p><p>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Tic_tac_toe&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Tic_tac_toe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Unit-Converter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Unit-Converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Tic_tac_to&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Tic_tac_toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Unit-Converte&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Unit-Converter)
 </p><p>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ChuckNorrisJokeApp&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ChuckNorrisJokeApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Simple_ToDO&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Simple_ToDO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ChuckNorrisJokeAp&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ChuckNorrisJokeApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Simple_ToD&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Simple_ToDO)
 </p><p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ScrollSampler&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ScrollSampler)
