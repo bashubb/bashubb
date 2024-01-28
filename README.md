@@ -131,7 +131,7 @@
 <p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=BillSpliter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/BillSpliter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=VisualSort&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/VisualSort)
+
 
 </p><p>
     
