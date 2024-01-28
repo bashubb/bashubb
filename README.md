@@ -1,4 +1,5 @@
-<h1 align="left">Hello, I am Hubert 👋</h1>
+![Header](https://github.com/bashubb/bashubb/blob/main/github-header-image.png)
+
 <br>
 <h2>📍 About me</h2>
     <p >Greetings! 🚀 <br> 
@@ -150,6 +151,6 @@
 <p> 
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashubb&&hide_progress=true&text_color=848D97&border_color=21262C&bg_color=0D1117)        
-<img align="right" src="https://github.com/bashubb/bashubb/blob/main/jackson_dancing.gif">
+<img align="right" src="https://github.com/bashubb/bashubb/blob/main/jackson_dancing.gif" width="40%" height="40%">
 </p>
  
