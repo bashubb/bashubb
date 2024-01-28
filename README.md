@@ -1,4 +1,4 @@
-![Header](https://github.com/bashubb/bashubb/blob/main/github-header-image.png)
+![Header](https://github.com/bashubb/bashubb/blob/main/github_header.png)
 
 <br>
 <h2>📍 About me</h2>
@@ -83,7 +83,7 @@
     <ul>
         <li><h4>Swift Essential Training</h4></li>
             <ul>
-                <li><a href="https://www.linkedin.com/learning/certificates/22c9c276c359730588c77e356cb7be54dddee462818106901b08e5e2c97fc8de">Certificate</a></li>
+                <li><a href="https://github.com/bashubb/bashubb/blob/main/CertyfikatUkonczenia_Swift%205%20Essential%20Training.pdf">Certificate</a></li>
             </ul>
         <li><h4>Software Development Academy : Junior Python Developer Course</h4></li>
             <ul>
@@ -95,7 +95,7 @@
             </ul>
         <li><h4>Deep Teaching Solutions : Learning How to Learn - Powerful mental tools to help you master tough subjects</h4></li>
             <ul>
-                <li><a href="https://coursera.org/share/ac43412ee52a87fe35a80e9bc2644ffa">Certificate</a></li>
+                <li><a href="https://github.com/bashubb/bashubb/blob/main/Coursera%20CRSAXCP6FJSM-2.pdf">Certificate</a></li>
             </ul>
     </ul>
 </details>
