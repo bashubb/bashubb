@@ -1,6 +1,6 @@
 ![Header](https://github.com/bashubb/bashubb/blob/main/github_header.png)
 
-![Snake animation](https://github.com/bashubb/bashubb/blob/main/github-contribution-grid-snake.svg)
+
 <br>
 <h2>📍 About me</h2>
     <p >Greetings! 🚀 <br> 
