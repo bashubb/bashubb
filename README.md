@@ -69,12 +69,12 @@
     <ul>
         <li><h4>100 days with swift</h4></li>
             <ul>
-                <li><a href="https://github.com/bashubb/100-days-of-swift">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/100-days-of-swift">Check My Solutions</a></li>
                 <li><a href="">Certificate</a></li>
             </ul>
         <li><h4>100 days with swiftUI</h4></li>
             <ul>
-                <li><a href="https://github.com/bashubb/100-days-of-swiftUI">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/100-days-of-swiftUI">Check My Solutions</a></li>
                 <li><a href="">Certificate</a></li>
             </ul>
     </ul>
