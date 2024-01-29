@@ -40,7 +40,7 @@
             the foundations of the C programming language,the adaptability of Python, the intricacies of SQL's database querying capabilities,<br>
             and the vibrant interactivity brought by HTML and JavaScript. Throughout this experience, I tackled over 30 coding challenges, culminating in a</i> <a href="https://github.com/bashubb/VisualSort">final project</a></p>
             <ul>
-                <li><a href="https://github.com/bashubb/CS50x">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/CS50x">Check My Solutions</a></li>
                 <li><a href="https://certificates.cs50.io/750197ab-7311-4f6a-b936-c67a5a0fe3f9">Certificate</a></li>
             </ul>
             <br>
@@ -51,7 +51,7 @@
             the course provided a practical and comprehensive understanding of Python. The entire curriculum was centered on Python,<br>
             offering a robust foundation for solving diverse programming problems.</i></p>
             <ul>
-                <li><a href="https://github.com/bashubb/CS50p">Projects repository</a></li>
+                <li><a href="https://github.com/bashubb/CS50p">Check My Solutions</a></li>
                 <li><a href="https://certificates.cs50.io/671fc18b-72f6-435e-a4af-f3ae129ca738">Certificate</a></li>
             </ul>
             <br>
