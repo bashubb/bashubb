@@ -139,7 +139,7 @@
 </p><p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ChuckNorrisJokeApp&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ChuckNorrisJokeApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Simple_ToD0&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Simple_ToDO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Simple_ToDO&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Simple_ToDO)
 </p><p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ScrollSampler&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ScrollSampler)
