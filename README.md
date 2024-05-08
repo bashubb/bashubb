@@ -123,18 +123,19 @@
 
 <br><br>
 
-<h2> 🚀 Get ScrollSampler !</h2>  
+<img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="60%">
 
-<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1715126400" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1715126400" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
 
 Enhance your iOS applications with dynamic, customizable scroll animations using ScrollSampler. Designed specifically for developers, this macOS app provides powerful tools to create sophisticated scroll effects easily.
 
 ✨ Start creating beautiful and interactive user interfaces today with ScrollSampler's adjustable transitions, orientation options, modifier generator, saved presets, and instant previews. Perfect for elevating your app's user experience!
 For more information and updates, follow my [App Store Developer Profile](https://apps.apple.com/us/developer/hubert-kielkowski/id1743041981?itsct=apps_box_link&itscg=30200). 
-
+<h2> </h2>
+<br>
 <br>
 
-<h2>📐 things I've worked on :</h2>
+<h2>📐Other things I'm working on :</h2>
 
 <p>
     
