@@ -123,7 +123,7 @@
 
 <br><br>
 
-<img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="60%">
+<img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="75%">
 
 <a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1715126400" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
 
