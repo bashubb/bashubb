@@ -130,15 +130,19 @@ Enhance your iOS applications with dynamic, customizable scroll animations using
 
 ✨ Start creating beautiful and interactive user interfaces today with ScrollSampler's adjustable transitions, orientation options, modifier generator, saved presets, and instant previews. Perfect for elevating your app's user experience!
 For more information and updates, follow my [App Store Developer Profile](https://apps.apple.com/us/developer/hubert-kielkowski/id1743041981?itsct=apps_box_link&itscg=30200). 
+[Repo link](https://github.com/bashubb/ScrollSampler-MacOS-version)
 <br>
 <br>
 
 <br><br>
 
 <img src="https://github.com/bashubb/BMI-Watcher/blob/main/BMI_Watcher_badge.png" width="75%">
-<a href="https://apps.apple.com/pl/app/bmi-watcher/id6502956154?l=pl"><img src="https://github.com/bashubb/BMI-Watcher/blob/main/download-on-the-app-store-apple-logo-svgrepo-com.png"></a>
+<a href="https://apps.apple.com/pl/app/bmi-watcher/id6502956154?l"><img src="https://github.com/bashubb/BMI-Watcher/blob/main/download-on-the-app-store-apple-logo-svgrepo-com.png"></a>
+<br>
+
 Transform your fitness journey with BMI Watcher – the fun, easy, and humorous way to track your BMI and receive personalized advice! 📏⚖️ Get motivated and stay healthy with your ultimate fitness companion! 🏋️
-For more information and updates, follow my [App Store Developer Profile](https://apps.apple.com/us/developer/hubert-kielkowski/id1743041981?itsct=apps_box_link&itscg=30200). 
+For more information and updates, follow my [App Store Developer Profile](https://apps.apple.com/us/developer/hubert-kielkowski/id1743041981?itsct=apps_box_link&itscg=30200).
+[Repo link](https://github.com/bashubb/BMI-Watcher/tree/main)
 <br>
 <br>
 
@@ -146,7 +150,7 @@ For more information and updates, follow my [App Store Developer Profile](https:
 
 <p>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Unit-Converter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Unit-Converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ApolloExplorer&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ApolloExplorer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Unit-Converter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Unit-Converter)
 </p><p>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=Tic_tac_toe&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/Tic_tac_toe)
@@ -157,10 +161,7 @@ For more information and updates, follow my [App Store Developer Profile](https:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=RickAndMorty_Explorer&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/RickAndMorty_Explorer)
 </p><p>
     
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=SmartSpliter&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/SmartSpliter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bashubb&repo=ApolloExplorer&text_color=848D97&border_color=21262C&bg_color=0D1117&description_lines_count=5)](https://github.com/bashubb/ApolloExplorer)
 </p>
 <br><br>
     
