@@ -120,7 +120,7 @@
 <a href="https://linkedin.com/in/hubert-kielkowski" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="hubert-kielkowski"/> <a href="https://discord.gg/https://discord.gg/Hnr2vdnbSX" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
 
-<br><br>
+<br>
 
 <img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="75%">
 
@@ -132,9 +132,6 @@ Enhance your iOS applications with dynamic, customizable scroll animations using
 For more information and updates, follow my [App Store Developer Profile](https://apps.apple.com/us/developer/hubert-kielkowski/id1743041981?itsct=apps_box_link&itscg=30200). 
 [Repo link](https://github.com/bashubb/ScrollSampler-MacOS-version)
 <br>
-<br>
-
-<br><br>
 
 <img src="https://github.com/bashubb/BMI-Watcher/blob/main/BMI_Watcher_badge.png" width="75%">
 <a href="https://apps.apple.com/pl/app/bmi-watcher/id6502956154?l"><img src="https://github.com/bashubb/BMI-Watcher/blob/main/download-on-the-app-store-apple-logo-svgrepo-com.png"></a>
