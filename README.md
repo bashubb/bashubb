@@ -125,7 +125,7 @@
 <img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="75%">
 
 
-<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&itscg=30200&itsct=apps_box_badge&mttnsubad=6499279871" style="display: inline-block;">
+<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6499279871" style="display: inline-block;">
 <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1715126400" alt="Pobierz z App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
      
