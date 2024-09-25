@@ -124,7 +124,11 @@
 
 <img src="https://github.com/bashubb/ScrollSampler-MacOS-version/blob/main/Scroll%20Sampler.png" width="75%">
 
-<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1715126400" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> 
+
+<a href="https://apps.apple.com/us/app/scroll-sampler/id6499279871?mt=12&itscg=30200&itsct=apps_box_badge&mttnsubad=6499279871" style="display: inline-block;">
+<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1715126400" alt="Pobierz z App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
+     
 
 Enhance your iOS applications with dynamic, customizable scroll animations using ScrollSampler. Designed specifically for developers, this macOS app provides powerful tools to create sophisticated scroll effects easily.
 
